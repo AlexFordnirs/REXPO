@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Malazin",
+    "slug": "malazin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "af1e14fe-a53d-48c6-a4c4-3c28037246f9"
+      }
+    },
+    "owner": "alexford"
+  },
+  "name": "Malazin"
+}

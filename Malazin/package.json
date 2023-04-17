@@ -1,0 +1,32 @@
+{
+  "name": "malazin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@parse/react-native": "^0.0.1-alpha.18",
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "expo": "~48.0.9",
+    "expo-camera": "^13.2.1",
+    "expo-splash-screen": "~0.18.1",
+    "expo-status-bar": "~1.4.4",
+    "parse": "^4.0.1",
+    "react": "18.2.0",
+    "react-native": "0.71.4",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-image-picker": "^5.3.1",
+    "react-native-paper": "^5.5.1",
+    "react-native-safe-area-context": "^4.5.1",
+    "react-native-safe-area-view": "^1.1.1",
+    "react-navigation": "^4.4.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
